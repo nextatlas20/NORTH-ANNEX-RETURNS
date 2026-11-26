@@ -1,0 +1,13 @@
+{"crate_id":"CR-17","item":1,"checked_at":"2055-03-08T09:00Z","seal_intact":true,"event_no":1}
+{"crate_id":"CR-17","item":2,"checked_at":"2055-03-08T10:15Z","seal_intact":true,"event_no":1}
+{"crate_id":"CR-04","item":1,"checked_at":"2055-03-08T08:00Z","seal_intact":true,"event_no":1}
+{"crate_id":"CR-04","item":2,"checked_at":"2055-03-08T09:00Z","seal_intact":false,"event_no":1}
+{"crate_id":"CR-04","item":2,"checked_at":"2055-03-08T09:10Z","seal_intact":true,"event_no":2}
+{"crate_id":"CR-31","item":1,"checked_at":"2055-03-08T10:00Z","seal_intact":true,"event_no":1}
+{"crate_id":"CR-31","item":2,"checked_at":"2055-03-08T10:30Z","seal_intact":false,"event_no":1}
+{"crate_id":"CR-22","item":1,"checked_at":"2055-03-08T09:00Z","seal_intact":true,"event_no":1}
+{"crate_id":"CR-09","item":1,"checked_at":"2055-03-08T10:00Z","seal_intact":true,"event_no":1}
+{"crate_id":"CR-09","item":2,"checked_at":"2055-03-08T10:30Z","seal_intact":true,"event_no":1}
+{"crate_id":"CR-99","item":1,"checked_at":"2055-03-08T09:00Z","seal_intact":true,"event_no":1}
+{"crate_id":"CR-22","item":1,"checked_at":"2055-03-08T12:01Z","seal_intact":true,"event_no":2}
+{"crate_id":"CR-09","checked_at":"2055-03-08T10:20Z","item":2,"seal_intact":true,"event_no":2}

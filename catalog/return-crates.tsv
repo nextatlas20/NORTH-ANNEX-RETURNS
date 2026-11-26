@@ -1,0 +1,6 @@
+crate_id	collection	due_at	priority	expected_items
+CR-17	Alchemy	2055-03-08T10:00Z	EXPRESS	2
+CR-04	Botany	2055-03-08T09:30Z	NORMAL	3
+CR-31	Cartography	2055-03-08T11:00Z	EXPRESS	2
+CR-22	Drama	2055-03-08T09:45Z	NORMAL	1
+CR-09	Ephemera	2055-03-08T10:30Z	NORMAL	2
